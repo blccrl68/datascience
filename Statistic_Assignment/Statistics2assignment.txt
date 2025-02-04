@@ -1,0 +1,9 @@
+Statistics_2
+Manisha, 10 Dec 2024
+10 Points
+Due Date: 19 Jan 2025
+Description
+This project aims to perform statistical analysis and data visualization using Python. You will generate a synthetic dataset, perform descriptive and inferential statistics, and visualize the results using Matplotlib and Seaborn.
+
+Instructions
+• Prepare a presentation in PowerPoint, Google Slides, or any other preferred format. • Include slides that explain your methodology, present your visualizations, and answer the technical questions. • Ensure your presentation is clear, concise, and well-organized. • Submit your presentation by the specified deadline.
